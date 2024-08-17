@@ -1,16 +1,17 @@
-## Hi there 👋
+# Pache
 
-<!--
-**Pachieeee/Pachieeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Pache, please call me Pache. Pache is a good name. I hope.
 
-Here are some ideas to get you started:
+## What you will find here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Silly projects
+2. Draft projects (probably related to university)
+
+## More serious section
+
+I'm a Software Engineering student (2020-2025), currently learning languages that will help me on my journey.
+Languages learned: C++, Python.
+
+Objective: Develop apps that are of my interest, learn full stack development.
+
+**Enjoy**
