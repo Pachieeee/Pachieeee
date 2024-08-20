@@ -9,9 +9,8 @@ I am Pache, please call me Pache. Pache is a good name. I hope.
 
 ## More serious section
 
-I'm a Software Engineering student (2020-2025), currently learning languages that will help me on my journey.
-Languages learned: C++, Python.
+I'm a Software Engineering student (2020-2025).
 
-Objective: Develop apps that are of my interest, learn full stack development.
+Objective: Develop apps that are of my interest.
 
 **Enjoy**
