@@ -12,5 +12,3 @@ I am Pache, please call me Pache. Pache is a good name. I hope.
 I'm a Software Engineering student (2020-2025).
 
 Objective: Develop apps that are of my interest.
-
-**Enjoy**
